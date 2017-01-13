@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="GIB_T" max_length="40" name="x_gitb_gib_t" type="collection">
+        <element label="GIB_name" max_length="100" name="gib_name" type="string"/>
+    </element>
+</database>
